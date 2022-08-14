@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Omukaya
 - 👀 I’m interested in Software Engineer
 - 🌱 I’m currently learning Web Development
-- 💞️ I’m looking to collaborate on Frontend Development
+- 💞️ I’m looking to collaborate on Backend Development
 - 📫 How to reach me ...
 
 <!---
